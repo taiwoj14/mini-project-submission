@@ -1,0 +1,43 @@
+=== DevOps Tooling Verification Report ===
+
+Date:
+$(date)
+
+Operating System:
+$(lsb_release -d)
+
+Git:
+git --version
+
+Python:
+python3 --version
+
+Java:
+java --version
+
+Docker:
+docker --version
+
+Docker Compose:
+docker compose version
+
+kubectl:
+kubectl version --client
+
+Terraform:
+terraform version
+
+Ansible:
+ansible --version
+
+Helm:
+helm version
+
+Minikube:
+minikube version
+
+Azure CLI:
+az version
+
+AWS CLI:
+aws --version
