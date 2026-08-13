@@ -1,10 +1,10 @@
-### Project Overview
+## Project Overview
 
 This project documents the setup and verification of my local DevOps environment.
 The environment was prepared to support cloud, containerization, Kubernetes,
 Infrastructure as Code, automation, and CI/CD activities.
 
-### Environment
+## Environment
 
 - Operating System: Ubuntu 24.04 LTS on WSL2
 - Editor: Visual Studio Code
@@ -18,15 +18,15 @@ Infrastructure as Code, automation, and CI/CD activities.
 - Runtime: Node.js
 - JSON Processing: jq
 
-### DevOps Environment Setup
+## DevOps Environment Setup
 
-## 1. Environment Configuration
+### 1. Environment Configuration
 
 The Bash configuration used for the environment is provided in:
 
 - `bashrc.txt`
 
-## 2. Tooling Verification
+### 2. Tooling Verification
 
 Version checks for the required DevOps tools are documented in:
 
@@ -35,7 +35,7 @@ Version checks for the required DevOps tools are documented in:
 The verification includes Git, Python, Java, Docker, Docker Compose, kubectl,
 Terraform, Ansible, Helm, Minikube, AWS CLI, and Azure CLI.
 
-## 3. Local Kubernetes Cluster Proof
+### 3. Local Kubernetes Cluster Proof
 
 A screenshot showing the running Minikube Kubernetes cluster is available at:
 
@@ -44,7 +44,7 @@ A screenshot showing the running Minikube Kubernetes cluster is available at:
 
 ## 4. Setup and Troubleshooting
 
-## Package Manager
+### Package Manager
 
 APT was used to install and manage Linux packages on Ubuntu.
 
@@ -68,4 +68,5 @@ minikube status
 
 ## 6. VERIFICATION
 
-All required tools were verified using version commands documented in DevOps-Tools-Verification-Report
+All required tools were verified using version commands documented in:
+ DevOps-Tools-Verification-Report
