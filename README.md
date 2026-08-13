@@ -42,7 +42,7 @@ A screenshot showing the running Minikube Kubernetes cluster is available at:
 - `screenshots/minikube-cluster-proof.png`
 
 
-## 4. Setup and Troubleshooting
+### 4. Setup and Troubleshooting
 
 ### Package Manager
 
