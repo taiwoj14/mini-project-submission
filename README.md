@@ -1,3 +1,24 @@
+## Project Overview
+
+This project documents the setup and verification of my local DevOps environment.
+The environment was prepared to support cloud, containerization, Kubernetes,
+Infrastructure as Code, automation, and CI/CD activities.
+
+## Environment
+
+- Operating System: Ubuntu 24.04 LTS on WSL2
+- Editor: Visual Studio Code
+- Version Control: Git and GitHub
+- Cloud Platforms: AWS and Microsoft Azure
+- Containerization: Docker
+- Kubernetes: Minikube and kubectl
+- Package Manager: Helm
+- Infrastructure as Code: Terraform
+- Configuration Management: Ansible
+- Runtime: Node.js
+- JSON Processing: jq
+
+
 # DevOps Environment Setup
 
 ## 1. Environment Configuration
