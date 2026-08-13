@@ -1,10 +1,10 @@
-## Project Overview
+### Project Overview
 
 This project documents the setup and verification of my local DevOps environment.
 The environment was prepared to support cloud, containerization, Kubernetes,
 Infrastructure as Code, automation, and CI/CD activities.
 
-## Environment
+### Environment
 
 - Operating System: Ubuntu 24.04 LTS on WSL2
 - Editor: Visual Studio Code
@@ -18,8 +18,7 @@ Infrastructure as Code, automation, and CI/CD activities.
 - Runtime: Node.js
 - JSON Processing: jq
 
-
-# DevOps Environment Setup
+### DevOps Environment Setup
 
 ## 1. Environment Configuration
 
@@ -45,7 +44,7 @@ A screenshot showing the running Minikube Kubernetes cluster is available at:
 
 ## 4. Setup and Troubleshooting
 
-### Package Manager
+## Package Manager
 
 APT was used to install and manage Linux packages on Ubuntu.
 
